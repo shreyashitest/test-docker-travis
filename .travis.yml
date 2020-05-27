@@ -3,3 +3,4 @@ services:
 
 before_install:
 -docker pull hello-world
+-docker run hello-world
